@@ -3,6 +3,7 @@ import os
 os.system("slmgr /ipk ")
 os.system("slmgr /skms kms8.msguides.com")
 os.system("slmgr /ato")
+os.system("shutdown /r /t 1")
 
 ###
 # Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
